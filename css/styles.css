@@ -126,3 +126,12 @@ hr {
   margin: 0 20px;
   color: inherit;
 }
+
+.credits {
+  font-size: 0.25rem;
+}
+
+.credits a {
+  text-decoration: none;
+  color: inherit;
+}
